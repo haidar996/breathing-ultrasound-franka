@@ -20,7 +20,7 @@ All experiments are finished; nothing is running. `python3 tests/test_basics.py`
 - Every needle/tissue number is an assumption — find sources.
 - Ideas: recorded breathing data; safety rule / step-wise gated insertion; joint friction +
   predictive force control; simulated ultrasound image.
-- Not a git repository yet.
+- Published at https://github.com/haidar996/breathing-ultrasound-franka (branch `main`).
 
 ## Cautions
 - Laptop has 8 GB RAM: run experiments with 1–2 workers, not during other heavy jobs.
