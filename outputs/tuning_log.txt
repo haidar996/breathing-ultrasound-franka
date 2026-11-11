@@ -1,0 +1,41 @@
+L 0.1
+ hold   0.0
+  cv q 1e-05 1.168
+  cv q 0.0001 0.766
+  cv q 0.001 0.914
+  cv q 0.01 1.509
+  cv q 0.1 2.542
+  ekf qa 1e-08 qw 0.0001 0.722 max 2.11
+  ekf qa 1e-08 qw 0.001 0.669 max 1.8
+  ekf qa 1e-08 qw 0.01 1.118 max 3.25
+  ekf qa 1e-08 qw 0.1 1.99 max 4.6
+  ekf qa 1e-07 qw 0.0001 0.554 max 1.66
+  ekf qa 1e-07 qw 0.001 0.432 max 0.71
+  ekf qa 1e-07 qw 0.01 0.445 max 0.72
+  ekf qa 1e-07 qw 0.1 1.093 max 5.54
+  ekf qa 1e-06 qw 0.0001 0.697 max 1.09
+  ekf qa 1e-06 qw 0.001 0.65 max 1.03
+  ekf qa 1e-06 qw 0.01 0.639 max 0.99
+  ekf qa 1e-06 qw 0.1 0.674 max 0.98
+L 0.3
+ hold   0.0
+  cv q 1e-05 2.723
+  cv q 0.0001 2.023
+  cv q 0.001 2.251
+  cv q 0.01 3.671
+  cv q 0.1 6.413
+  ekf qa 1e-08 qw 0.0001 1.174 max 3.49
+  ekf qa 1e-08 qw 0.001 1.151 max 3.27
+  ekf qa 1e-08 qw 0.01 2.034 max 5.97
+  ekf qa 1e-08 qw 0.1 4.116 max 10.14
+  ekf qa 1e-07 qw 0.0001 1.053 max 3.35
+  ekf qa 1e-07 qw 0.001 0.804 max 1.5
+  ekf qa 1e-07 qw 0.01 0.853 max 1.66
+  ekf qa 1e-07 qw 0.1 2.395 max 13.09
+  ekf qa 1e-06 qw 0.0001 1.606 max 2.74
+  ekf qa 1e-06 qw 0.001 1.438 max 2.56
+  ekf qa 1e-06 qw 0.01 1.382 max 2.44
+  ekf qa 1e-06 qw 0.1 1.478 max 2.43
+14.31815380897141 14.284040766176195
+
+[exited with code 0]
